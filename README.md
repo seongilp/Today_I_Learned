@@ -5,3 +5,4 @@
 * https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 * https://revf.tistory.com/272?fbclid=IwAR3nbKK-U2XysSlGM6F4Us1iglzbthrJXyggrWXEtNkRsXnsl5pZ97Cf6m4
 * https://manchann.tistory.com/43
+* https://jaeyung1001.tistory.com/entry/Slack-ChatGPT-Slack-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-3%ED%8E%B8
