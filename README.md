@@ -3,3 +3,5 @@
 * https://github.com/openai/openai-cookbook/blob/73a64ff7da07ce2e90de2f43dfc75cbf68773300/techniques_to_improve_reliability.md
 * https://www.patterns.app/blog/2022/12/21/finetune-llm-tech-support
 * https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
+* https://revf.tistory.com/272?fbclid=IwAR3nbKK-U2XysSlGM6F4Us1iglzbthrJXyggrWXEtNkRsXnsl5pZ97Cf6m4
+* https://manchann.tistory.com/43
