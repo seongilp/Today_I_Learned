@@ -10,7 +10,19 @@
 * https://medium.com/@alexandre.tkint/integrate-openais-chatgpt-within-slack-a-step-by-step-approach-bea43400d311
 * https://myeeunkim.tistory.com/64
 * https://www.chatpdf.com
+* https://roomgpt.io
+* poe.com
+* https://www.beautiful.ai/
+* https://textsynth.com/pricing.html
+
+# Class
+* https://web.stanford.edu/class/cs253/ - Web Security
+* https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/lecture/ZalUY/meet-the-author
+* https://brilliant.org/?utm_medium=sponsor&utm_source=twitter&utm_campaign=svpino_0223
 
 # Swift
 * https://bbiguduk.gitbook.io/swift
 * 
+
+# Shell
+* https://www.learnshell.org/
