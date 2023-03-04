@@ -22,7 +22,11 @@
 
 # Swift
 * https://bbiguduk.gitbook.io/swift
-* 
 
 # Shell
 * https://www.learnshell.org/
+
+# Oracle
+* https://shanepark.tistory.com/400
+* https://github.com/abiosoft/colima
+* https://hub.docker.com/r/gvenzl/oracle-xe
