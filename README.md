@@ -9,3 +9,8 @@
 * https://github.com/workdd/ChatGPT_with_Slack/blob/main/main.py
 * https://medium.com/@alexandre.tkint/integrate-openais-chatgpt-within-slack-a-step-by-step-approach-bea43400d311
 * https://myeeunkim.tistory.com/64
+* https://www.chatpdf.com
+
+# Swift
+* https://bbiguduk.gitbook.io/swift
+* 
