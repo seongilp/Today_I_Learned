@@ -14,6 +14,7 @@
 * poe.com
 * https://www.beautiful.ai/
 * https://textsynth.com/pricing.html
+* https://sharegpt.com/
 
 # Class
 * https://web.stanford.edu/class/cs253/ - Web Security
