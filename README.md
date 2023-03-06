@@ -33,3 +33,6 @@
 
 # API
 * https://strapi.io
+
+# Cloud
+* https://localstack.cloud/
