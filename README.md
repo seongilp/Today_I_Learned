@@ -15,6 +15,7 @@
 * https://www.beautiful.ai/
 * https://textsynth.com/pricing.html
 * https://sharegpt.com/
+* https://news.hada.io/topic?id=8730
 
 # Class
 * https://web.stanford.edu/class/cs253/ - Web Security
